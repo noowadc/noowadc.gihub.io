@@ -10,7 +10,7 @@ permalink: /
 
 ## 연락처
 
-- 이메일: @gmail.com
+- 이메일: cha12608@gmail.com
 - 전화번호: 010 -
 - 깃허브:[링크](https://github.com/)
 
