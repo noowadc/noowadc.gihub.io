@@ -6,13 +6,13 @@ description: "홈 화면"
 permalink: /
 ---
 
-# 안녕하세요 입니다.
+# nooWaDC
 
 ## 연락처
 
 - 이메일: cha12608@gmail.com
 - 전화번호: 010 -
-- 깃허브:[링크](https://github.com/)
+- 깃허브:[링크]([https://github.com/](https://github.com/noowadc/noowadc.github.io))
 
 ## 프로젝트
 
